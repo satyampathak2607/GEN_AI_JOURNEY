@@ -1,0 +1,4 @@
+pandas
+nlpaug
+transformers
+sentencepiece

@@ -1,0 +1,5 @@
+id,text,label,augmented_sentence
+1,This movie was fantastic,positive,This movie was fantastic
+2,I hated the food,negative,I hated the food.
+3,The product quality is great,positive,Product quality is great
+4,Service was terrible,negative,The service was terrible.

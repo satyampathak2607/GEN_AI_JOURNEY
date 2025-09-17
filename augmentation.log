@@ -1,0 +1,21 @@
+2025-09-18 00:20:16,547 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:20:27,289 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:21:13,438 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:21:23,319 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:25:34,485 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:27:24,043 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:27:36,801 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:30:57,485 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:31:08,762 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:31:57,492 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:32:09,409 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:39:12,033 - INFO - Starting data augmentation pipeline.
+2025-09-18 00:39:13,590 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-18 00:39:40,341 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-18 00:39:40,563 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-18 00:40:31,278 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-18 00:41:34,561 - INFO - Saved to d:\desktop\Gen_AI\Day_1\Data_Augmentation\scripts\..\Data\Processed_X\augmented_sentences.csv
+2025-09-18 00:41:34,561 - INFO - Pipeline complete.
+2025-09-18 03:11:02,136 - INFO - Starting data augmentation pipeline.
+2025-09-18 03:12:12,355 - INFO - Saved to d:\desktop\Gen_AI\Day_1\Data_Augmentation\scripts\..\Data\Processed_X\augmented_sentences.csv
+2025-09-18 03:12:12,355 - INFO - Pipeline complete.
