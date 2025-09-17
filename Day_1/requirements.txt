@@ -2,3 +2,4 @@ pandas
 nlpaug
 transformers
 sentencepiece
+pytorch
